@@ -1,2 +1,3 @@
 # hello-world
-new repository
+
+Hi I'm Angela, I just want to say HELLO!
